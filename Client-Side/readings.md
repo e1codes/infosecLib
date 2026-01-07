@@ -13,3 +13,6 @@
 
 ## postMessage and sandbox escaping 
 - https://www.monke.ie/p/exfiltrating-data-from-sandboxed-documents?utm_source=bugbountydaily.com&utm_medium=referral
+
+## XSS cheat sheet
+- https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
