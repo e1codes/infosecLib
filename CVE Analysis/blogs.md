@@ -1,0 +1,2 @@
+- https://dhakal-ananda.com.np/blogs/cve-2025-61922-analysis/
+- https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800/
