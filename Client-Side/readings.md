@@ -9,3 +9,6 @@
 
 ## JS Analysis
 - https://kpwn.de/2023/05/javascript-analysis-for-pentesters/
+
+## postMessage and sandbox escaping 
+- https://www.monke.ie/p/exfiltrating-data-from-sandboxed-documents?utm_source=bugbountydaily.com&utm_medium=referral
