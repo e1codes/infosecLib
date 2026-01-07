@@ -10,3 +10,6 @@
 ## API related vulns
 #### Business logic 
 - https://zere.es/posts/deanonymizing-users-at-scale/
+
+## Java
+- https://www.dsecured.com/en/articles/spring-boot-actuator-using-misconfig-to-your-advantage-paths-bypasses-techniques
