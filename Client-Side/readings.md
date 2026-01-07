@@ -1,5 +1,6 @@
 ## Write-up
 - [DOM XSS to Account Takeover in GSI SDK](https://blog.voorivex.team/not-so-dirty-dancing-in-gis-sdk)
+  https://security.lauritz-holtmann.de/post/xss-ato-gadgets/
 
 ## CSPT 
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
