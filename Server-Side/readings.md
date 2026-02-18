@@ -2,8 +2,9 @@
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
 - https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
 
-## Breaking down parsers
+## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
+- https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
 
 ## Database Exploitation
 - https://www.r-tec.net/r-tec-blog-mssql-exploitation-run-commands-like-a-pro.html
