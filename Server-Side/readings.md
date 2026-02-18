@@ -1,5 +1,6 @@
 ## RCE 
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
+- https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
 
 ## Breaking down parsers
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
