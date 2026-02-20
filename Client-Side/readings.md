@@ -21,4 +21,7 @@
 
 ## XSS
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
+
+#### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
+- https://blog.voorivex.team/when-two-parsers-disagree-exploiting-query-string-differentials-for-xss
