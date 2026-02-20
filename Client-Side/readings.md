@@ -6,6 +6,7 @@
 ## CSPT 
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
 - https://blog.voorivex.team/cloudflare-image-proxy-as-a-cspt-gadget-a-cross-origin-cspt-exploit
+- https://zere.es/posts/cache-deception-cspt-account-takeover/
 
 ## WAF Bypass
 - https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
