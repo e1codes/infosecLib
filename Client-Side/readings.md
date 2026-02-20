@@ -15,6 +15,7 @@
 ## postMessage and sandbox escaping 
 - https://www.monke.ie/p/exfiltrating-data-from-sandboxed-documents?utm_source=bugbountydaily.com&utm_medium=referral
 - https://rhynorater.github.io/postMessage-Braindump
+- https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
 
-## XSS cheat sheet
+## XSS
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
