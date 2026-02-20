@@ -1,4 +1,4 @@
 - https://portswigger.net/research/top-10-web-hacking-techniques-of-2025
 - https://jameskettle.com/#inspiration
-- [https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52](Hacking Zendesk)
+- [Hacking Zendesk](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 - https://samcurry.net/hacking-apple
