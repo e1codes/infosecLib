@@ -15,3 +15,6 @@
 
 ## Java
 - https://www.dsecured.com/en/articles/spring-boot-actuator-using-misconfig-to-your-advantage-paths-bypasses-techniques
+
+## CI
+- https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813 -> command injection in CI/CD workflow
