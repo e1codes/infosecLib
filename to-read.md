@@ -3,3 +3,5 @@
 - [Hacking Zendesk](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 - https://samcurry.net/hacking-apple
 - https://bugbountydaily.com/  --> Research Point
+- https://book.hacktricks.wiki/en/index.html --> Research Point
+- https://book.jorianwoltjer.com/ --> Research Point
