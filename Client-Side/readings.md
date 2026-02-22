@@ -7,7 +7,7 @@
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
 - https://blog.voorivex.team/cloudflare-image-proxy-as-a-cspt-gadget-a-cross-origin-cspt-exploit
 - https://zere.es/posts/cache-deception-cspt-account-takeover/
-
+- https://x.com/samwcyo/status/1437030056627523590
 ## WAF Bypass
 - https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
 
@@ -15,6 +15,9 @@
 - https://kpwn.de/2023/05/javascript-analysis-for-pentesters/
 
 ## postMessage and sandbox escaping 
+- https://labs.detectify.com/security-guidance/the-pitfalls-of-postmessage/
+- https://javascript.info/cross-window-communication
+- https://javascript.info/cross-window-communication
 - https://www.monke.ie/p/exfiltrating-data-from-sandboxed-documents?utm_source=bugbountydaily.com&utm_medium=referral
 - https://rhynorater.github.io/postMessage-Braindump
 - https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
