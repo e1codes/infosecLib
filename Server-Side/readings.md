@@ -5,6 +5,7 @@
 ## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
+- https://portswigger.net/research/splitting-the-email-atom -> see also https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows
 
 ## Database Exploitation
 - https://www.r-tec.net/r-tec-blog-mssql-exploitation-run-commands-like-a-pro.html
