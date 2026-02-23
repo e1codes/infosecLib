@@ -1,6 +1,7 @@
 ## RCE 
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
 - https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
+- https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813 -> command injection in CI/CD workflow
 
 ## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
@@ -17,8 +18,9 @@
 ## Java
 - https://www.dsecured.com/en/articles/spring-boot-actuator-using-misconfig-to-your-advantage-paths-bypasses-techniques
 
-## CI
-- https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813 -> command injection in CI/CD workflow
-
 ## Reverse Proxy and middleware
 - https://labs.detectify.com/ethical-hacking/middleware-middleware-everywhere-and-lots-of-misconfigurations-to-fix/
+
+
+## Cache bugs
+- https://medium.com/@Aacle/20-cache-poisoning-case-study-depth-analysis-of-real-world-bug-reports-d6aa02a6a44f
