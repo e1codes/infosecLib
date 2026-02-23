@@ -28,3 +28,6 @@
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
 - https://blog.voorivex.team/when-two-parsers-disagree-exploiting-query-string-differentials-for-xss
+
+#### DOM XSS
+- https://elmahdi4.wordpress.com/2025/09/26/dom-xss-bypassing-server-side-cookie-overwrite-chrome-innerhtml-quirk-and-json-injection/
