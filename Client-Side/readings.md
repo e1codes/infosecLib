@@ -27,6 +27,8 @@
 - https://www.imperva.com/blog/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/
 - https://x.com/sudhanshur705/status/1950836945418076596
 - https://lab.ctbb.show/research/Exploiting-web-worker-XSS-with-blobs
+- https://xbow.com/blog/xbow-salesforce-xss
+- https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/ -> good for depth knowledge 
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
