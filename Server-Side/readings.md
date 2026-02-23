@@ -19,3 +19,6 @@
 
 ## CI
 - https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813 -> command injection in CI/CD workflow
+
+## Reverse Proxy and middleware
+- https://labs.detectify.com/ethical-hacking/middleware-middleware-everywhere-and-lots-of-misconfigurations-to-fix/
