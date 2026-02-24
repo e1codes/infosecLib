@@ -1,7 +1,6 @@
 ## RCE 
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
 - https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
-- https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813 -> command injection in CI/CD workflow
 - https://projectdiscovery.io/blog/hacking-apple-with-sql-injection
 
 ## Parsers vulnerabilities
