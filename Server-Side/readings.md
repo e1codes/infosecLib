@@ -31,3 +31,4 @@
 - https://medium.com/@Maverick0o0/zero-click-mass-account-takeover-on-exchange-5e6c8790b054
 - https://medium.com/@0x_xnum/saml-authentication-bypass-leading-to-admin-panel-access-24f23812ed76
 - https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/
+- https://mey-d.github.io/posts/zero-click-ato-persian/
