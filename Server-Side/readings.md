@@ -8,6 +8,7 @@
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
 - https://portswigger.net/research/splitting-the-email-atom -> see also https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows
 - https://blog.bugport.net/exploiting-http-parsers-inconsistencies
+- https://www.yeswehack.com/learn-bug-bounty/syntax-confusion-ambiguous-parsing-exploits -> recommended
 
 ## Database Exploitation
 - https://www.r-tec.net/r-tec-blog-mssql-exploitation-run-commands-like-a-pro.html
