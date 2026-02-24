@@ -33,3 +33,6 @@
 - https://medium.com/@0x_xnum/saml-authentication-bypass-leading-to-admin-panel-access-24f23812ed76
 - https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/
 - https://mey-d.github.io/posts/zero-click-ato-persian/
+
+## Abusing WAFs
+- https://medium.com/@blogwithsarthak/from-query-param-to-cookie-poisoning-how-wafs-fail-at-security-69f784822635 -> intereseting
