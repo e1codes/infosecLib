@@ -7,3 +7,5 @@
 - https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw
 - https://blog.voorivex.team/drilling-the-redirecturi-in-oauth
 - https://blog.sicks3c.io/posts/ato-via-facebook-oauth-due-unsanitized-schema-allows-to-steal-oauth-token/
+- https://infosecwriteups.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7
+- 
