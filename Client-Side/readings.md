@@ -32,6 +32,7 @@
 - https://xbow.com/blog/xbow-salesforce-xss
 - https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/ -> good for depth knowledge
 - https://mey-d.github.io/posts/self-xss-disk-cache/
+- https://github.com/ArtSecTest/artsec-xss-labs -> xss lab
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
