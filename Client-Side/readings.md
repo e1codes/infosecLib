@@ -2,6 +2,7 @@
 - [DOM XSS to Account Takeover in GSI SDK](https://blog.voorivex.team/not-so-dirty-dancing-in-gis-sdk)
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/
 - https://ysamm.com/uncategorized/2026/01/17/math-random-facebook-sdk.html
+- https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html
 
 ## CSPT 
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
@@ -23,6 +24,7 @@
 - https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
 
 ## XSS
+- https://aszx87410.github.io/beyond-xss/en/
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
 - https://www.imperva.com/blog/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/
 - https://x.com/sudhanshur705/status/1950836945418076596
