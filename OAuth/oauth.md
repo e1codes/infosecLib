@@ -9,3 +9,4 @@
 - https://blog.sicks3c.io/posts/ato-via-facebook-oauth-due-unsanitized-schema-allows-to-steal-oauth-token/
 - https://infosecwriteups.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7
 - https://lab.ctbb.show/research/can-a-predicted-window-open-target-really-be-that-impactful
+- https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
