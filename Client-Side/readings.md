@@ -7,6 +7,7 @@
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/
 - https://ysamm.com/uncategorized/2026/01/17/math-random-facebook-sdk.html
 - https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html
+- https://mizu.re/post/fcsc-2026-writeups --> Kevin Mizu (recommended)
 
 ## CSPT 
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
