@@ -2,6 +2,7 @@
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
 - https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
 - https://projectdiscovery.io/blog/hacking-apple-with-sql-injection
+- https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854 --> GitHub RCE via git push
 
 ## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
