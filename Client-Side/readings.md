@@ -43,7 +43,8 @@
 - https://mey-d.github.io/posts/self-xss-disk-cache/
 - https://github.com/ArtSecTest/artsec-xss-labs -> xss lab
 - https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/
-- https://sudistark.github.io/2026/04/07/mxss.html --> Mutation XSS 
+- https://sudistark.github.io/2026/04/07/mxss.html --> Mutation XSS
+- https://mey-d.github.io/posts/self-xss-disk-cache/ --> by meydi 
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
