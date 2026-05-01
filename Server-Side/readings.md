@@ -37,3 +37,8 @@
 
 ## Abusing WAFs
 - https://medium.com/@blogwithsarthak/from-query-param-to-cookie-poisoning-how-wafs-fail-at-security-69f784822635 -> intereseting
+
+## Cookie and JWT
+- probably a seperate topic later
+- https://rmrf.tips/en/posts/jwt-why-broken/ --> highly recommended
+- https://github.com/sin99xx/researchlab/blob/main/JWTs-deep-dive.md
