@@ -53,3 +53,6 @@
 #### DOM XSS
 - https://elmahdi4.wordpress.com/2025/09/26/dom-xss-bypassing-server-side-cookie-overwrite-chrome-innerhtml-quirk-and-json-injection/
 - https://medium.com/@renwa/site-dom-xss-using-cookie-injection-the-ai-hackers-are-coming-faster-than-you-think-3ef82f2a991d --> Renwa XSS
+
+## MUST Reads
+- https://blog.huli.tw/2022/04/07/en/iframe-and-window-open/
