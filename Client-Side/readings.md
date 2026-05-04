@@ -33,7 +33,6 @@
 - https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
 
 ## XSS
-- https://aszx87410.github.io/beyond-xss/en/ -> MUST READ
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
 - https://www.imperva.com/blog/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/
 - https://x.com/sudhanshur705/status/1950836945418076596
@@ -54,5 +53,7 @@
 - https://elmahdi4.wordpress.com/2025/09/26/dom-xss-bypassing-server-side-cookie-overwrite-chrome-innerhtml-quirk-and-json-injection/
 - https://medium.com/@renwa/site-dom-xss-using-cookie-injection-the-ai-hackers-are-coming-faster-than-you-think-3ef82f2a991d --> Renwa XSS
 
-## MUST Reads
+## Browser, iframe, and specifications --> very important 
 - https://blog.huli.tw/2022/04/07/en/iframe-and-window-open/
+- https://joaxcar.com/blog/2024/05/16/sandbox-iframe-xss-challenge-solution/
+- https://aszx87410.github.io/beyond-xss/en/ -> MUST READ
