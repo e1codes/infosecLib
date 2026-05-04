@@ -25,12 +25,12 @@
 - https://kpwn.de/2023/05/javascript-analysis-for-pentesters/
 
 ## postMessage and sandbox escaping 
-- https://labs.detectify.com/security-guidance/the-pitfalls-of-postmessage/
 - https://javascript.info/cross-window-communication
 - https://javascript.info/cross-window-communication
 - https://www.monke.ie/p/exfiltrating-data-from-sandboxed-documents?utm_source=bugbountydaily.com&utm_medium=referral
 - https://rhynorater.github.io/postMessage-Braindump
 - https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
+- https://x.com/floatingdotmind/status/1847911787053645927
 
 ## XSS
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
