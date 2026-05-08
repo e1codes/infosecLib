@@ -57,3 +57,4 @@
 - https://blog.huli.tw/2022/04/07/en/iframe-and-window-open/
 - https://joaxcar.com/blog/2024/05/16/sandbox-iframe-xss-challenge-solution/
 - https://aszx87410.github.io/beyond-xss/en/ -> MUST READ
+- https://github.com/sin99xx/researchlab/blob/main/Cookies-and-CORS.md
