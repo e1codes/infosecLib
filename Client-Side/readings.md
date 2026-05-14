@@ -55,6 +55,11 @@
 
 ## Browser, iframe, and specifications --> very important 
 - https://blog.huli.tw/2022/04/07/en/iframe-and-window-open/
+- https://reshpentestexperts.medium.com/bypassing-the-x-frame-options-header-b6ad0ff8df07
 - https://joaxcar.com/blog/2024/05/16/sandbox-iframe-xss-challenge-solution/
 - https://aszx87410.github.io/beyond-xss/en/ -> MUST READ
 - https://github.com/sin99xx/researchlab/blob/main/Cookies-and-CORS.md
+
+
+## CSP Bypass
+- https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache
