@@ -31,6 +31,7 @@
 - https://rhynorater.github.io/postMessage-Braindump
 - https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
 - https://x.com/floatingdotmind/status/1847911787053645927
+- https://hackerone.com/reports/207042 --> to implement
 
 ## XSS
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
