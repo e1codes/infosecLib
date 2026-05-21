@@ -31,7 +31,7 @@
 - https://rhynorater.github.io/postMessage-Braindump
 - https://www.turb0.one/pages/Challenge_One:_Strange_XSS_Writeup.html
 - https://x.com/floatingdotmind/status/1847911787053645927
-- https://hackerone.com/reports/207042 --> to implement
+- https://hackerone.com/reports/207042 --> Interesting Case Study,to be implemented
 
 ## XSS
 - https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
@@ -42,9 +42,9 @@
 - https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/ -> good for depth knowledge
 - https://mey-d.github.io/posts/self-xss-disk-cache/
 - https://github.com/ArtSecTest/artsec-xss-labs -> xss lab
-- https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/
 - https://sudistark.github.io/2026/04/07/mxss.html --> Mutation XSS
-- https://mey-d.github.io/posts/self-xss-disk-cache/ --> by meydi 
+- https://mey-d.github.io/posts/self-xss-disk-cache/ --> by meydi
+- https://www.ghostlulz.com/blog/reactjs-sourcemaps-to-xss-with-ai  --> Basic 
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
@@ -60,6 +60,7 @@
 - https://joaxcar.com/blog/2024/05/16/sandbox-iframe-xss-challenge-solution/
 - https://aszx87410.github.io/beyond-xss/en/ -> MUST READ
 - https://github.com/sin99xx/researchlab/blob/main/Cookies-and-CORS.md
+- https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/
 
 
 ## CSP Bypass
