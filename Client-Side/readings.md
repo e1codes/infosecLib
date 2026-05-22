@@ -44,7 +44,8 @@
 - https://github.com/ArtSecTest/artsec-xss-labs -> xss lab
 - https://sudistark.github.io/2026/04/07/mxss.html --> Mutation XSS
 - https://mey-d.github.io/posts/self-xss-disk-cache/ --> by meydi
-- https://www.ghostlulz.com/blog/reactjs-sourcemaps-to-xss-with-ai  --> Basic 
+- https://www.ghostlulz.com/blog/reactjs-sourcemaps-to-xss-with-ai  --> Basic
+- https://slcyber.io/research-center/two-bypasses-for-chromes-sanitizer-api/ --> Case Study, very educational
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
