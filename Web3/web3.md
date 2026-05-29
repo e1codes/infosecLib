@@ -1,3 +1,5 @@
 - https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
 - https://medium.com/immunefi/aurora-infinite-spend-bugfix-review-6m-payout-e635d24273d
 - https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
+- https://www.youtube.com/watch?v=miVC-_sni9M&list=PLvxs_epf2X90qo6wN1RCN3-8jGQnCa8La
+- https://youtu.be/oGUqr0vzqss?si=_BhYid_LXWDpYOs0
