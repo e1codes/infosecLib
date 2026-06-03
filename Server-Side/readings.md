@@ -54,3 +54,4 @@
 - https://medium.com/@AlvaroBalada/ssrf-on-a-headless-browser-becomes-critical-c08daaa1017e
 - https://github.com/httpvoid/writeups/blob/main/Circumventing-Browser-Security-Mechanisms-For-SSRF.md
 - https://www.synack.com/exploits-explained/microservices-attack-vectors-in-modern-web-applications/
+- https://x.com/ryancbarnett/status/1958202455528771942 --> IP Obfuscature tool, useful 
