@@ -1,0 +1,11 @@
+- https://www.youtube.com/watch?v=1BSm5aJsk-Y --> Can I Replace AI With My Recon Methodology? (NahamSec)
+- https://www.youtube.com/watch?v=qTX9u-EsjmM&list=WL
+- https://blog.criticalthinkingpodcast.io/p/hackernotes-ep-165-protobuf-hacking-ai-powered-bug-hunting-and-self-improving-claude-workflows
+- https://www.youtube.com/watch?v=pRPT_yrgRL0&t=960s
+- https://blog.criticalthinkingpodcast.io/p/hackernotes-ep-166-claude-code-skills-for-bug-bounty-when-why-and-how-to-build-them
+- https://www.youtube.com/watch?v=pRPT_yrgRL0&t=960s
+- https://www.youtube.com/watch?v=kujCmXELWqo
+- https://aituglo.com/guide/bug-bounty/#setup-and-recon
+- https://clawd.it/posts/11-teaching-claude-everything-youve-hacked/
+- https://www.pentest-book.com/others/burp
+- https://github.com/jthack/ffuf_claude_skill/tree/main
