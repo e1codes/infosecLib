@@ -1,3 +1,6 @@
+# Exploiting Emails
+- https://www.youtube.com/watch?v=Bpnc1-g3fMk
+
 ## RCE 
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
 - https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
@@ -5,6 +8,7 @@
 - https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854 --> GitHub RCE via git push
 - https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass#bypass-4-duplicate-content-type-in-multipart-field
 - https://www.hacktron.ai/blog/rce-in-vscode-copilot
+- https://bugbunny.ai/blog/google-gemini-cli-rce-2025
 
 ## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
