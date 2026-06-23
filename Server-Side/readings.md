@@ -65,6 +65,7 @@
 - https://x.com/ryancbarnett/status/1958202455528771942 --> IP Obfuscature tool, useful
 - https://eib.hashnode.dev/crafting-a-full-read-ssrf-a-journey-through-oauth-dcr-open-url-redirects-and-path-normalization
 - https://blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+- https://www.wiz.io/blog/red-agent-pov-ssrf --> AI found this
 
 ## IDOR , Access Control
 - https://j4eva.io/blog/meta-ai-idor
