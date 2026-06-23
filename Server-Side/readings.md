@@ -4,6 +4,7 @@
 - https://projectdiscovery.io/blog/hacking-apple-with-sql-injection
 - https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854 --> GitHub RCE via git push
 - https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass#bypass-4-duplicate-content-type-in-multipart-field
+- https://www.hacktron.ai/blog/rce-in-vscode-copilot
 
 ## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
@@ -57,6 +58,7 @@
 - https://www.synack.com/exploits-explained/microservices-attack-vectors-in-modern-web-applications/
 - https://x.com/ryancbarnett/status/1958202455528771942 --> IP Obfuscature tool, useful
 - https://eib.hashnode.dev/crafting-a-full-read-ssrf-a-journey-through-oauth-dcr-open-url-redirects-and-path-normalization
+- https://blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
 
 ## IDOR , Access Control
 - https://j4eva.io/blog/meta-ai-idor
