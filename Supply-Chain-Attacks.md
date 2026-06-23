@@ -1,0 +1,1 @@
+- https://media.defcon.org/DEF%20CON%20Singapore%201/DEF%20CON%20SG%201%20main%20stage%20presentations/Oren%20Yomtov%2C%20Idan%20Dardikman%20-%20PackageGate%20-%20Finding%200-days%20in%20every%20JS%20Package%20Manager.pdf
