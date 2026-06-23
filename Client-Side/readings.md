@@ -24,6 +24,7 @@
 
 ## JS Analysis
 - https://kpwn.de/2023/05/javascript-analysis-for-pentesters/
+- https://blog.remmy9.xyz/blog/javascript-dissected-p1/
 
 ## postMessage and sandbox escaping 
 - https://javascript.info/cross-window-communication
