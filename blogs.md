@@ -3,6 +3,6 @@
 - https://bugbountydaily.com/  --> Research Point
 - https://book.hacktricks.wiki/en/index.html --> Research Point
 - https://book.jorianwoltjer.com/ --> Research Point
-https://hackt.us/
-https://slcyber.io/
-https://zhero-web-sec.github.io/
+- https://hackt.us/
+- https://slcyber.io/
+- https://zhero-web-sec.github.io/
