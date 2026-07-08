@@ -1,0 +1,2 @@
+- https://www.vaadata.com/en/blog/graphql-api-vulnerabilities-common-attacks-and-security-tips/
+- https://koalasec.hashnode.dev/2500-dollars-in-bounties-hacking-graphql?utm_source=hashnode&utm_medium=feed&__cf_chl_tk=D2fKyK92IYo5KLPgPDeexm.Ja3YmgHOG92lrMsxTVls-1783522314-1.0.1.1-5V.JAOwBvkassCx0T0PW5Orl4.TnvooPcJAwde7pLY8
