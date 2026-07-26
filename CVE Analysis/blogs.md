@@ -1,3 +1,4 @@
 - https://dhakal-ananda.com.np/blogs/cve-2025-61922-analysis/
 - https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800/
 - https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
+- https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854
