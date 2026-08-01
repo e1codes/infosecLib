@@ -2,3 +2,4 @@
 - https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800/
 - https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
 - https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854
+- https://ethiack.com/info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails
