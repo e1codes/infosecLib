@@ -11,3 +11,4 @@
 - https://hackt.us/full-account-takeover-on-an-mcp-oauth-proxy-why-pkce-can-t-save-you
 - https://www.breachproof.net/blog/lethal-injection-how-we-hacked-microsoft-ai-chat-bot/ --> very educational
 - https://bugbunny.ai/blog/google-gemini-cli-rce-2025
+- https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents -> usefull
