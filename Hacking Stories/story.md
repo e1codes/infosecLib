@@ -9,3 +9,4 @@ Usefull walkthrough by hackers, showing how they hack and exploit companies with
 - https://sectricity.com/blog/misconfigured-grafana-507-private-meta-repos/ --> Must read
 - https://blog.ammaraskar.com/github-token-stealing/ --> must read
 - https://www.aikido.dev/blog/meccha-chameleon-rce
+- https://fearsoff.org/research/cloudflare-acme
