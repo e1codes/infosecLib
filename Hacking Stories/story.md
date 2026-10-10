@@ -8,3 +8,4 @@ Usefull walkthrough by hackers, showing how they hack and exploit companies with
 - https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52
 - https://sectricity.com/blog/misconfigured-grafana-507-private-meta-repos/ --> Must read
 - https://blog.ammaraskar.com/github-token-stealing/ --> must read
+- https://www.aikido.dev/blog/meccha-chameleon-rce
