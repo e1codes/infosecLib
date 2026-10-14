@@ -12,3 +12,4 @@
 - https://www.breachproof.net/blog/lethal-injection-how-we-hacked-microsoft-ai-chat-bot/ --> very educational
 - https://bugbunny.ai/blog/google-gemini-cli-rce-2025
 - https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents -> usefull
+- https://www.exigent07.com/posts/The%20Bug%20That%20Cost%20Google%20Gemini%20%2415%2C000?from=%2F
