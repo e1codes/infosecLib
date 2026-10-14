@@ -10,3 +10,4 @@ Usefull walkthrough by hackers, showing how they hack and exploit companies with
 - https://blog.ammaraskar.com/github-token-stealing/ --> must read
 - https://www.aikido.dev/blog/meccha-chameleon-rce
 - https://fearsoff.org/research/cloudflare-acme
+- https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain --> Chrome V8
